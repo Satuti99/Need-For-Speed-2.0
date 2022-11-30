@@ -325,7 +325,7 @@ int main()
         {
             music.play();
             window.draw(game_over);
-            window.draw(doneBY);
+            window.draw(restart);
         }
 
         window.display();
