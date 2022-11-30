@@ -114,7 +114,7 @@ struct Line
 
 int main()
 {
-    RenderWindow window(VideoMode(width, height), "Car Race");
+    RenderWindow window(VideoMode(width, height), "NEED FOR SPEED 2.0");
     window.setFramerateLimit(60);
 
     SoundBuffer buffer;
