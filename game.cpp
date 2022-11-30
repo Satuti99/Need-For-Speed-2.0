@@ -17,7 +17,7 @@ float camD = 0.84; //camera depth
 FloatRect sprite_bounds;
 bool gameOver = false;
 
-// for darawing quadilateral for road
+// for drawing quadilateral for road
 void drawQuad(RenderWindow &w, Color c, int x1, int y1, int w1, int x2, int y2, int w2)
 {
     ConvexShape shape(4);
